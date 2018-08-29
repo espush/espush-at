@@ -1,0 +1,7 @@
+.output
+*~
+bin
+*.o
+
+app/user/espush.h
+lib/libespush.a
